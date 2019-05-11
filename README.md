@@ -1,2 +1,3 @@
 # pyanimequotes
+[![Issues](https://img.shields.io/github/issues-closed/Shankusu993/pyquotes.svg?style=flat-square)](https://github.com/Shankusu993/pyquotes/issues) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/oss2019/pyquotes.svg?style=flat-square)](https://github.com/oss2019/pyquotes/pulls) [![License](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/oss2019/pyquotes/blob/master/LICENSE) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/pyquotes)
 Scrape anime quotes and make twitter bot later to tweet an anime quote every 12 hrs
