@@ -1,0 +1,6 @@
+README.md
+setup.py
+pydevquotes.egg-info/PKG-INFO
+pydevquotes.egg-info/SOURCES.txt
+pydevquotes.egg-info/dependency_links.txt
+pydevquotes.egg-info/top_level.txt
